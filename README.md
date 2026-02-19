@@ -1,0 +1,1 @@
+Conduct a seminar on the given topic and present a case study demonstrating its application in current real-world communication systems. If the topic is obsolete, discuss the modern version or suitable substitute currently in use.
